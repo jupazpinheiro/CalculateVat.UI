@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+div .SameLineTitle, .SameLine{
+    display:inline-block;;
+}
+
+div .SameLineTitle{
+    width: 50%;
+    margin: auto;
+}
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    } 
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
